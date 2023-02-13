@@ -8,5 +8,5 @@
         "SamuelHamuel"
     ],
     "description": "An Example Mod For The Use With The PortalPulse Mod Launcher For Portal 2",
-    "file": "./mod.zip"          //File of your mod package (must be in root directory)
+    "file": "mod.zip"          //File of your mod package (must be in root directory)
 }
